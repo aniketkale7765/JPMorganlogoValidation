@@ -1,0 +1,9 @@
+2020-10-22 19:29:01,312  INFO [main] WebDriverUtils:33 - Creating driver for chrome browser
+2020-10-22 19:31:15,032  INFO [main] GooglePageObj:44 - Successfully Launched the browser
+2020-10-22 19:31:15,034  INFO [main] GooglePageObj:49 - Verifying page title
+2020-10-22 19:31:15,161  INFO [main] StepDef:20 - Successfully navigated to google page
+2020-10-22 19:31:32,571  INFO [main] GooglePageObj:58 - Search data entered successfully
+2020-10-22 19:31:51,826  INFO [main] GooglePageObj:64 - Clicked the search result successfully
+2020-10-22 19:31:51,827  INFO [main] StepDef:27 - Clicked on search result link successfully
+2020-10-22 19:31:51,833  INFO [main] GooglePageObj:69 - Verifying JPM logo
+2020-10-22 19:31:52,277  INFO [main] StepDef:34 - JP Morgan logo displayed successfully
